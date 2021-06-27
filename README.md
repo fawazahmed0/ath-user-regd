@@ -34,3 +34,5 @@ sudo make dkms-remove
 If you are using a rolling release distribution or if you upgrade your major kernel version, you may need to remove and re-install the DKMS script.
 
 Tested and confirmed working on kernels 4.15 and 5.8. Will probably work on anything in between.
+
+Other reference: https://medium.com/@renaudcerrato/how-to-build-your-own-wireless-router-from-scratch-part-3-d54eecce157f
